@@ -1,0 +1,1 @@
+don't need to import react when we use function base component
